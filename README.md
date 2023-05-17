@@ -1,7 +1,7 @@
-![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
+![MasterHead](https://i.gifer.com/8PmK.gif)
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
 <h3 align="center">A passionate Mern Stack  Developer</h3>
- <img align="right" width="400" src="https://i.gifer.com/8PmK.gif" alt="Coding">
+ <img align="right" width="400" src="" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek9503&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek9503" /> </p>
 
