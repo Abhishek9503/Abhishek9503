@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif)
+![MasterHead]
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
 <h3 align="center">A passionate Mern Stack  Developer</h3>
  <img align="right" width="400" src="" alt="Coding">
