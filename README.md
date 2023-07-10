@@ -9,7 +9,7 @@ I am Abhishek Yadav, an  enthusiastic and motviated Student in the firld of comp
 [![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https://abhishek17-portfolio.netlify.app/)](https://abhishek17-portfolio.netlify.app/)
 [![Youtube Badge](https://img.shields.io/badge/-Kaiwalya%20Koparkar-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@hardiktecvlogs6630)](https://www.youtube.com/@hardiktecvlogs6630)
 
-[![Kaiwalya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek9503&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek9503&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚡ Technologies
 
@@ -20,7 +20,7 @@ I am Abhishek Yadav, an  enthusiastic and motviated Student in the firld of comp
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDb](https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png)
+![MongoDb]()
 
 ### Libraries & Framework :
 
@@ -53,13 +53,12 @@ I am Abhishek Yadav, an  enthusiastic and motviated Student in the firld of comp
 
 ## 💰 Support
 <p>
-<a href='https://ko-fi.com/O4O659E32' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href='https://www.buymeacoffee.com/kaiwalya' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
-</p>
+<a href='https://ko-fi.com/abhishek9503#paypalModal' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaiwalyakoparkar&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiwalyakoparkar&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek9503&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek9503&theme=tokyonight" />
 </p>
