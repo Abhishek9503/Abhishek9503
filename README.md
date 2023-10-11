@@ -9,8 +9,6 @@
 [![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https://abhishek17-portfolio.netlify.app/)](https://abhishek17-portfolio.netlify.app/)
 [![Youtube Badge](https://img.shields.io/badge/-hardiktecvlogs6630-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@hardiktecvlogs6630)](https://www.youtube.com/@hardiktecvlogs6630)
 
-[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek9503&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## ⚡ Technologies
 
 ### Language :
