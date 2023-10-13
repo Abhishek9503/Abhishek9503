@@ -1,6 +1,9 @@
  Hello I am Abhishek Yadav, an  enthusiastic and motviated Student in the field of computer science
 
+
 <a href="https://app.daily.dev/Abhishek9503"><img src="https://api.daily.dev/devcards/612db3c2a6bb4916824419a215f49bcd.png?r=xmo" width="400" alt="Abhishek Yadav's Dev Card"/></a>
+
+[![An image of @abhishek9503's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishek9503)](https://holopin.io/@abhishek9503)
 
 [![Linkedin Badge](https://img.shields.io/badge/-abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/abhishek-yadav17/)](https://www.linkedin.com/in/abhishek-yadav17/)
 [![Instagram Badge](https://img.shields.io/badge/-abhishek__yadav17_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/abhishek__yadav17_/)](https://www.instagram.com/abhishek__yadav17_/)
@@ -51,7 +54,7 @@
 <p>
 <a href='https://ko-fi.com/abhishek9503#paypalModal' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
  
-[![An image of @abhishek9503's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishek9503)](https://holopin.io/@abhishek9503)
+
 
 
 ## 📈 Stats
