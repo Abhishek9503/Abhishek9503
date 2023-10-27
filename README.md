@@ -4,7 +4,6 @@
 
 [![An image of @abhishek9503's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishek9503)](https://holopin.io/@abhishek9503)
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek9503&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek9503" /> </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/abhishek-yadav17/)](https://www.linkedin.com/in/abhishek-yadav17/)
