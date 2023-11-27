@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Abhishek Yadav </h1>
 
 [![An image of @abhishek9503's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishek9503)](https://holopin.io/@abhishek9503)
