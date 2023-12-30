@@ -2,8 +2,8 @@
 
 <p  align="top">
  <a href="https://app.daily.dev/Abhishek9503"><img src="https://api.daily.dev/devcards/612db3c2a6bb4916824419a215f49bcd.png?r=xmo" width="260" alt="Abhishek Yadav's Dev Card"/></a>
- <img src="https://github.com/Abhishek9503/Abhishek9503/assets/103676667/6569bc32-2904-44ed-a75e-3da0bffc4315" width="260" height="320" style="border-radius: 50px;"  alt="Abhishek Yadav's Dev Card"/>
-  <img src="https://github.com/Abhishek9503/Abhishek9503/assets/103676667/24369670-e7ed-4789-a240-559b84cc178d)" width="260" height="320" style="border-radius: 50px;" alt="Abhishek Yadav's Dev Card"/>
+ <img src="https://github.com/Abhishek9503/Abhishek9503/assets/103676667/6569bc32-2904-44ed-a75e-3da0bffc4315" width="260" height="340" style="border-radius: 50px;"  alt="Abhishek Yadav's Dev Card"/>
+  <img src="https://github.com/Abhishek9503/Abhishek9503/assets/103676667/24369670-e7ed-4789-a240-559b84cc178d)" width="260" height="340" style="border-radius: 50px;" alt="Abhishek Yadav's Dev Card"/>
 </p>
 
 
