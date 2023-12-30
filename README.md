@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhishek Yadav </h1>
 
+<p  align="top">
+ <a href="https://app.daily.dev/Abhishek9503"><img src="https://api.daily.dev/devcards/612db3c2a6bb4916824419a215f49bcd.png?r=xmo" width="330" alt="Abhishek Yadav's Dev Card"/></a>
+ <img src="https://github.com/Abhishek9503/Abhishek9503/assets/103676667/6569bc32-2904-44ed-a75e-3da0bffc4315" width="330" height="450" style="border-radius: 50px;"  alt="Abhishek Yadav's Dev Card"/>
+  <img src="https://github.com/Abhishek9503/Abhishek9503/assets/103676667/24369670-e7ed-4789-a240-559b84cc178d)" width="330" height="450" style="border-radius: 50px;" alt="Abhishek Yadav's Dev Card"/>
+</p>
 
-<a href="https://app.daily.dev/Abhishek9503"><img src="https://api.daily.dev/devcards/612db3c2a6bb4916824419a215f49bcd.png?r=xmo" width="400" alt="Abhishek Yadav's Dev Card"/></a>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek9503&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek9503" /> </p>
 
@@ -54,10 +60,6 @@
 <p>
 <a href='https://ko-fi.com/abhishek9503#paypalModal' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-[![An image of @abhishek9503's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishek9503)](https://holopin.io/@abhishek9503)
- 
-
-
 
 ## 📈 Stats
 <p align="center">
@@ -65,3 +67,9 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek9503&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek9503&theme=tokyonight" />
 </p>
+
+## ⚡Hacktoberfest
+
+[![An image of @abhishek9503's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishek9503)](https://holopin.io/@abhishek9503)
+ 
+
