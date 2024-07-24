@@ -2,12 +2,6 @@ FULL  STACK DEVELOPER
 
  <!--START_SECTION:waka-->
 
-   ![](https://komarev.com/ghpvc/?username=Abhishek9503)
- 
-  [![Code Time](https://wakatime.com/badge/github/Abhishek9503/sparrow-app-dev.svg)](https://wakatime.com/badge/github/Abhishek9503/sparrow-app-dev)
- 
-<!-- wakatime weekly activity end -->
-
 ```txt
 TypeScript    22 hrs 16 mins  ████████████▓░░░░░░░░░░░░   50.24 %
 HTML          14 hrs 27 mins  ████████░░░░░░░░░░░░░░░░░   32.60 %
