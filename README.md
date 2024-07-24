@@ -32,12 +32,6 @@ JSON          27 mins         ▒░░░░░░░░░░░░░░░�
 
  <div align="center">
 
-<!-- github most used lang -->
-
-<img width=230 src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek9503&show_icons=true&locale=en&layout=compact" alt="montasim" />
-
-<!-- github most used lang end -->
-
  <!-- github streak start -->
 
 <img width=320 src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek9503&layout=compact"  />
