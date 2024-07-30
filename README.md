@@ -3,11 +3,11 @@ FULL  STACK DEVELOPER
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    17 hrs 23 mins  ██████████████░░░░░░░░░░░   55.38 %
-HTML          10 hrs 35 mins  ████████▒░░░░░░░░░░░░░░░░   33.73 %
-JavaScript    2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-Bash          27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-JSON          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+TypeScript   16 hrs 40 mins  █████████████▓░░░░░░░░░░░   55.00 %
+HTML         10 hrs 5 mins   ████████▒░░░░░░░░░░░░░░░░   33.28 %
+JavaScript   2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Bash         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
