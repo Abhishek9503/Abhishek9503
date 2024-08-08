@@ -13,8 +13,6 @@ SCSS          23 mins         ▒░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
-
   <p align="start">
 <a href="https://linkedin.com/in/Abhishek">
 <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,postgres,mongodb,linux,bash,git,github,react,express,nodejs,nextjs,gcp,docker,vscode,postman,powershell,githubactions,&theme=dark&perline=10" />
