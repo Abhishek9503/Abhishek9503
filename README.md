@@ -1,6 +1,5 @@
 FULL  STACK DEVELOPER
 
-
  <!--START_SECTION:waka-->
 
 ```txt
