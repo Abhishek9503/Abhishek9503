@@ -3,11 +3,11 @@ FULL  STACK DEVELOPER
  <!--START_SECTION:waka-->
 
 ```txt
-Svelte        22 hrs 12 mins  ████████████████░░░░░░░░░   64.44 %
-TypeScript    11 hrs 38 mins  ████████▒░░░░░░░░░░░░░░░░   33.79 %
-Image (svg)   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-SCSS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-TSConfig      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Svelte        18 hrs 48 mins  ██████████████░░░░░░░░░░░   56.07 %
+TypeScript    14 hrs 8 mins   ██████████▓░░░░░░░░░░░░░░   42.16 %
+Image (svg)   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Bash          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TSConfig      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
