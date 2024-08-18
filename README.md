@@ -1,8 +1,8 @@
 FULL  STACK DEVELOPER
 
  <!--START_SECTION:waka-->
-                
-```txt 
+
+```txt
 Svelte        17 hrs 38 mins  ███████████████████░░░░░░   76.48 %
 TypeScript    5 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
 SCSS          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
