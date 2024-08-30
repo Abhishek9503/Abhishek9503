@@ -2,6 +2,8 @@ FULL  STACK DEVELOPER
 
  <!--START_SECTION:waka-->
 
+ <h1>My work this week</h1>
+
 ```txt
 Svelte        23 hrs 39 mins  ██████████████░░░░░░░░░░░   56.05 %
 JavaScript    11 hrs 16 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.71 %
