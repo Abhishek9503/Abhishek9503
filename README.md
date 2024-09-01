@@ -5,9 +5,6 @@ Full Stack Developer
 
  <!--START_SECTION:waka-->
 
- Last week stats
- 
-
 ```txt
 Svelte        27 hrs 34 mins  ████████████████░░░░░░░░░   64.08 %
 JavaScript    9 hrs 47 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
