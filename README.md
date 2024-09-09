@@ -6,11 +6,11 @@ Full Stack Developer
  <!--START_SECTION:waka-->
 
 ```txt
-Svelte       14 hrs 41 mins  ███████████████████▒░░░░░   77.17 %
-TypeScript   2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
-Other        32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-Bash         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Git Config   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Svelte       14 hrs 41 mins  ███████████████████░░░░░░   76.52 %
+TypeScript   2 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
+Other        32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Bash         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Git Config   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 ```
 
 <!--END_SECTION:waka-->
