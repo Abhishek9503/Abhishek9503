@@ -3,7 +3,6 @@ Full Stack Developer
 </h1>
  <!--START_SECTION:waka-->
 
-
 ```txt
 Svelte        17 hrs 45 mins  ██████████████████████▒░░   89.32 %
 TypeScript    1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
