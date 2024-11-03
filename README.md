@@ -2,6 +2,7 @@
 
  <!--START_SECTION:waka-->
 
+
 ```txt
 Svelte       10 hrs 59 mins  █████████████████▓░░░░░░░   70.68 %
 JavaScript   3 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   19.63 %
