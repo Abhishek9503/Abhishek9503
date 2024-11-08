@@ -7,6 +7,12 @@
 [![Ashutosh's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abhishek9503&layout=compact&theme=dark)](https://wakatime.com/@Abhishek9503)
 
 
+![Code Time](https://wakatime.com/badge/user/Abhishek9503.svg)
+
+
+
+
+
 ```txt
 Total Time: 22 hrs 53 mins
 
