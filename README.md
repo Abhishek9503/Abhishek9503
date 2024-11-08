@@ -1,10 +1,10 @@
 
  
  <!--START_SECTION:waka-->
- 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abhishek9503&layout=compact)
 
 ```txt
+Total Time: 22 hrs 53 mins
+
 Svelte        12 hrs 37 mins  █████████████▓░░░░░░░░░░░   55.15 %
 JavaScript    7 hrs 21 mins   ████████░░░░░░░░░░░░░░░░░   32.15 %
 TypeScript    2 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
