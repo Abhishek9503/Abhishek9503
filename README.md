@@ -1,7 +1,8 @@
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abhishek9503&layout=compact)
 
  
  <!--START_SECTION:waka-->
+ 
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abhishek9503&layout=compact)
 
 ```txt
 Svelte        12 hrs 37 mins  █████████████▓░░░░░░░░░░░   55.15 %
