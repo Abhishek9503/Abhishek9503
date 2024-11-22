@@ -30,9 +30,10 @@ jobs:
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 3
           plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os, projects, projects-graphs
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: Abhishek9503
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
 
           output_action: gist
           committer_gist: 3e153d0295a3f10c924e657735f8eb9a
