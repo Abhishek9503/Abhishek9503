@@ -1,6 +1,5 @@
  <!--START_SECTION:waka-->
 ```txt
-
 Total Time: 21 hrs 12 mins
 
 Svelte        7 hrs 56 mins   █████████▒░░░░░░░░░░░░░░░   37.41 %
