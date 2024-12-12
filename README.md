@@ -12,8 +12,6 @@ SCSS          7 mins          ░░░░░░░░░░░░░░░░�
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
-
-
 <!--END_SECTION:waka-->
 
 
