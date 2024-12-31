@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Set Matrix Zeroes</div>
-                            <div class="date">29 Dec 2024</div>
+                            <div class="title">4Sum</div>
+                            <div class="date">30 Dec 2024</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,7 +96,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Operations to Make Columns Strictly Increasing</div>
+                            <div class="title">Set Matrix Zeroes</div>
                             <div class="date">29 Dec 2024</div>
                         </div>
                     </div>
