@@ -87,7 +87,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Number of Operations to Move All Balls to Each Box</div>
+                            <div class="title">Find First and Last Position of Element in Sorted Array</div>
                             <div class="date">6 Jan 2025</div>
                         </div>
                     </div>
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Shifting Letters II</div>
-                            <div class="date">5 Jan 2025</div>
+                            <div class="title">Minimum Number of Operations to Move All Balls to Each Box</div>
+                            <div class="date">6 Jan 2025</div>
                         </div>
                     </div>
                 </section>
