@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="61.97997097242381 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">649</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="62.07547169811321 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">650</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3445</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="68.62576687116564 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">374</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="68.80925822643614 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">375</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1793</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -63,9 +63,9 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x355</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x356</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x176</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x146</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x147</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x91</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x89</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x86</span></div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Tuple with Same Product</div>
-                            <div class="date">6 Feb 2025</div>
+                            <div class="title">Find the Number of Distinct Colors Among the Balls</div>
+                            <div class="date">7 Feb 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Check if One String Swap Can Make Strings Equal</div>
-                            <div class="date">5 Feb 2025</div>
+                            <div class="title">Tuple with Same Product</div>
+                            <div class="date">6 Feb 2025</div>
                         </div>
                     </div>
                 </section>
