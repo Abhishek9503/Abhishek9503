@@ -19,9 +19,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="62.17097242380261 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">651</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3445</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="62.19425920556684 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">652</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3449</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -37,18 +37,18 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="68.99274958170665 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">376</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1793</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="69.0991643454039 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">377</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1795</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="26.03894472361809 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="25.973684210526315 329"/>
                                     <text x="60" y="50" dominant-baseline="central">63</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/796</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/798</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -63,12 +63,12 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x356</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x357</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x176</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x148</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x149</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x91</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x89</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x86</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x87</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x79</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x75</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x69</span></div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Append Characters to String to Make Subsequence</div>
-                            <div class="date">8 Feb 2025</div>
+                            <div class="title">Count Number of Bad Pairs</div>
+                            <div class="date">9 Feb 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,7 +96,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Separate Black and White Balls</div>
+                            <div class="title">Append Characters to String to Make Subsequence</div>
                             <div class="date">8 Feb 2025</div>
                         </div>
                     </div>
