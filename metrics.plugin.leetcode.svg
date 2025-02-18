@@ -19,9 +19,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="62.68025440878867 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">659</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3459</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="62.75722543352601 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">660</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3460</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -37,9 +37,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="69.89877641824249 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">382</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1798</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="70.04280155642023 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">383</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1799</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -63,9 +63,9 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x362</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x177</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x150</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x363</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x179</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x151</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x91</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x90</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x89</span></div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Find Special Substring of Length K</div>
-                            <div class="date">16 Feb 2025</div>
+                            <div class="title">Letter Tile Possibilities</div>
+                            <div class="date">17 Feb 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Construct the Lexicographically Largest Valid Sequence</div>
-                            <div class="date">16 Feb 2025</div>
+                            <div class="title">Maximum Nesting Depth of the Parentheses</div>
+                            <div class="date">17 Feb 2025</div>
                         </div>
                     </div>
                 </section>
