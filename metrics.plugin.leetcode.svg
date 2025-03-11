@@ -19,9 +19,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="64.09827586206896 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">678</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3480</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="64.25043078690408 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">680</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3482</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -37,18 +37,18 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="72.01990049751244 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">396</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1809</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="72.34364640883977 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">398</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1810</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="26.499380421313507 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="26.46658415841584 329"/>
                                     <text x="60" y="50" dominant-baseline="central">65</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/807</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/808</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -64,10 +64,10 @@
                     </h2>
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x372</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x184</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x155</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x185</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x156</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x95</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x93</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x94</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x90</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x82</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x78</span></div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Alternating Groups II</div>
-                            <div class="date">9 Mar 2025</div>
+                            <div class="title">Count of Substrings Containing Every Vowel and K Consonants II</div>
+                            <div class="date">10 Mar 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Recolors to Get K Consecutive Black Blocks</div>
-                            <div class="date">8 Mar 2025</div>
+                            <div class="title">Count Good Numbers</div>
+                            <div class="date">10 Mar 2025</div>
                         </div>
                     </div>
                 </section>
