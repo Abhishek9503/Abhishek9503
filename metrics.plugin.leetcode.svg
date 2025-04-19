@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Count Equal and Divisible Pairs in an Array</div>
-                            <div class="date">17 Apr 2025</div>
+                            <div class="title">Count and Say</div>
+                            <div class="date">18 Apr 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Count the Number of Good Subarrays</div>
-                            <div class="date">16 Apr 2025</div>
+                            <div class="title">Count Equal and Divisible Pairs in an Array</div>
+                            <div class="date">17 Apr 2025</div>
                         </div>
                     </div>
                 </section>
