@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="67.19603960396039 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">722</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="67.28910891089109 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">723</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3535</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="74.94386920980926 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">418</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="75.12316076294279 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">419</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1835</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -63,7 +63,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x403</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x404</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x190</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x169</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x105</span></div>
@@ -71,7 +71,7 @@
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x99</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x86</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x80</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x75</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x76</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x67</span></div>
                     </div>
                 </section>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Push Dominoes</div>
-                            <div class="date">2 May 2025</div>
+                            <div class="title">Minimum Domino Rotations For Equal Row</div>
+                            <div class="date">3 May 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Maximum Number of Tasks You Can Assign</div>
-                            <div class="date">1 May 2025</div>
+                            <div class="title">Push Dominoes</div>
+                            <div class="date">2 May 2025</div>
                         </div>
                     </div>
                 </section>
