@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="70.50659186535763 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">764</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="70.59887798036465 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">765</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3565</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="76.86749594375338 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">432</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="77.0454299621417 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">433</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1849</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -63,7 +63,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x421</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x422</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x201</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x175</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x109</span></div>
@@ -72,7 +72,7 @@
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x87</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x83</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x81</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x69</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x70</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Find Closest Node to Given Two Nodes</div>
-                            <div class="date">30 May 2025</div>
+                            <div class="title">Snakes and Ladders</div>
+                            <div class="date">31 May 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Maximize the Number of Target Nodes After Connecting Trees II</div>
-                            <div class="date">29 May 2025</div>
+                            <div class="title">Find Closest Node to Given Two Nodes</div>
+                            <div class="date">30 May 2025</div>
                         </div>
                     </div>
                 </section>
