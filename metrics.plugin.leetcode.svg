@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="70.84878185382246 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">769</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="70.94091290954914 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">770</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3571</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -46,8 +46,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="31.37067938021454 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">80</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="31.762812872467222 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">81</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/839</text>
                                 </svg>
                                 <span class="title">Hard</span>
@@ -63,7 +63,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x422</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x423</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x201</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x175</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x110</span></div>
@@ -72,7 +72,7 @@
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x87</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x83</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x81</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x70</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x71</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Distribute Candies Among Children II</div>
-                            <div class="date">1 Jun 2025</div>
+                            <div class="title">Maximum Candies You Can Get from Boxes</div>
+                            <div class="date">3 Jun 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,7 +96,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Average Selling Price</div>
+                            <div class="title">Distribute Candies Among Children II</div>
                             <div class="date">1 Jun 2025</div>
                         </div>
                     </div>
