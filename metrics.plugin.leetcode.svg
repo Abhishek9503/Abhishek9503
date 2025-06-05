@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Maximum Candies You Can Get from Boxes</div>
-                            <div class="date">3 Jun 2025</div>
+                            <div class="title">Assign Cookies</div>
+                            <div class="date">4 Jun 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Distribute Candies Among Children II</div>
-                            <div class="date">1 Jun 2025</div>
+                            <div class="title">Find the Lexicographically Largest String From the Box I</div>
+                            <div class="date">4 Jun 2025</div>
                         </div>
                     </div>
                 </section>
