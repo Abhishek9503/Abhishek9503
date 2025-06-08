@@ -19,9 +19,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="71.12517502100252 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">772</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3571</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="71.13762237762238 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">773</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3575</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -37,18 +37,18 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="77.80885529157668 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">438</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1852</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="77.90237324703344 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">439</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1854</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="31.762812872467222 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="31.68727705112961 329"/>
                                     <text x="60" y="50" dominant-baseline="central">81</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/839</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/841</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -64,14 +64,14 @@
                     </h2>
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x423</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x203</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x176</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x204</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x177</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x110</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x108</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x103</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x87</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x83</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x83</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x82</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x71</span></div>
                     </div>
                 </section>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Using a Robot to Print the Lexicographically Smallest String</div>
-                            <div class="date">6 Jun 2025</div>
+                            <div class="title">Lexicographically Minimum String After Removing Stars</div>
+                            <div class="date">7 Jun 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Lexicographically Smallest Equivalent String</div>
-                            <div class="date">5 Jun 2025</div>
+                            <div class="title">Using a Robot to Print the Lexicographically Smallest String</div>
+                            <div class="date">6 Jun 2025</div>
                         </div>
                     </div>
                 </section>
