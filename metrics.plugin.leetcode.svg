@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Partition Array Such That Maximum Difference Is K</div>
-                            <div class="date">19 Jun 2025</div>
+                            <div class="title">Maximum Manhattan Distance After K Changes</div>
+                            <div class="date">20 Jun 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Divide Array Into Arrays With Max Difference</div>
-                            <div class="date">18 Jun 2025</div>
+                            <div class="title">Partition Array Such That Maximum Difference Is K</div>
+                            <div class="date">19 Jun 2025</div>
                         </div>
                     </div>
                 </section>
