@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="71.93157162726008 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">786</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="72.0230876216968 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">787</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3595</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -28,8 +28,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="96.12910532276331 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">258</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="96.50169875424689 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">259</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/883</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -63,14 +63,14 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x427</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x428</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x208</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x179</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x113</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x110</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x106</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x89</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x87</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x88</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x84</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x71</span></div>
                     </div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Divide a String Into Groups of Size k</div>
-                            <div class="date">22 Jun 2025</div>
+                            <div class="title">Find All K-Distant Indices in an Array</div>
+                            <div class="date">24 Jun 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Deletions to Make String K-Special</div>
-                            <div class="date">21 Jun 2025</div>
+                            <div class="title">Divide a String Into Groups of Size k</div>
+                            <div class="date">22 Jun 2025</div>
                         </div>
                     </div>
                 </section>
